@@ -1,4 +1,4 @@
-from main import verificar_pares_impares
+from script import verificar_pares_impares
 
 def test_verificar_pares_impares():
     numeros = [10, 5, 8, 3, 17, 20]
